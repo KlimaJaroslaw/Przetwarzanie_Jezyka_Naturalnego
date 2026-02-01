@@ -1,0 +1,40 @@
+{
+  "nouns": [
+    "actor", "apple", "artist", "baby", "bag", "ball", "banana", "bear", "bed", "bike",
+    "bird", "boat", "book", "boy", "bridge", "bus", "cake", "car", "cat", "chair",
+    "chef", "child", "city", "cloud", "computer", "cook", "country", "cow", "cup", "day",
+    "desk", "doctor", "dog", "door", "driver", "duck", "egg", "elephant", "family", "farmer",
+    "father", "fish", "flower", "friend", "frog", "garden", "girl", "glass", "goat", "guitar",
+    "horse", "house", "island", "jacket", "juice", "key", "king", "kitchen", "lamp", "lion",
+    "man", "milk", "money", "monkey", "mother", "mountain", "mouse", "movie", "nurse", "ocean",
+    "orange", "paper", "park", "pen", "person", "phone", "photo", "piano", "pilot", "pizza",
+    "plane", "plant", "queen", "rabbit", "river", "robot", "ship", "shoe", "snake", "song",
+    "spoon", "star", "student", "sun", "table", "teacher", "tiger", "train", "tree", "woman"
+  ],
+  "adjectives": [
+    "angry", "bad", "beautiful", "big", "bitter", "black", "blue", "brave", "bright", "brown",
+    "busy", "cheap", "clean", "clever", "cold", "cool", "crazy", "dark", "deep", "dirty",
+    "dry", "early", "easy", "empty", "expensive", "fast", "fat", "fine", "free", "fresh",
+    "funny", "gold", "good", "gray", "great", "green", "happy", "hard", "healthy", "heavy",
+    "high", "hot", "hungry", "important", "kind", "large", "lazy", "light", "little", "long",
+    "loud", "lovely", "low", "lucky", "modern", "new", "nice", "noisy", "old", "open",
+    "orange", "perfect", "pink", "poor", "popular", "pretty", "proud", "purple", "quick", "quiet",
+    "rare", "ready", "red", "rich", "rough", "sad", "safe", "salty", "serious", "short",
+    "shy", "sick", "silver", "slow", "small", "smart", "smooth", "soft", "sour", "strong",
+    "sweet", "tall", "thick", "thin", "thirsty", "tiny", "ugly", "warm", "weak", "wet", "white", "wide", "young"
+  ],
+  "verbs": [
+    "accept", "add", "admire", "advise", "allow", "answer", "ask", "bake", "believe", "borrow",
+    "break", "bring", "build", "buy", "call", "carry", "catch", "change", "check", "choose",
+    "clean", "close", "collect", "cook", "copy", "count", "create", "cut", "deliver", "describe",
+    "design", "destroy", "discover", "do", "draw", "drink", "drive", "eat", "enjoy", "explain",
+    "feel", "fill", "find", "finish", "fix", "follow", "forget", "get", "give", "guess",
+    "have", "hear", "help", "hide", "hit", "hold", "hope", "hug", "imagine", "improve",
+    "include", "invite", "keep", "kick", "know", "learn", "leave", "like", "listen", "lose",
+    "love", "make", "meet", "move", "need", "open", "order", "paint", "pay", "phone",
+    "pick", "play", "prepare", "push", "put", "read", "remember", "repair", "save", "see",
+    "sell", "send", "show", "sing", "stop", "study", "take", "teach", "tell", "thank",
+    "think", "throw", "touch", "try", "understand", "use", "visit", "wait", "want", "watch",
+    "wear", "win", "write"
+  ]
+}
