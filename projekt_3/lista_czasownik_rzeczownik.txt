@@ -1,0 +1,708 @@
+================================================================================
+LISTA POŁĄCZEŃ: CZASOWNIK -> RZECZOWNIKI
+================================================================================
+
+
+REPLIED:
+------------------------------------------------------------
+  conseil              [ 46 wystąpień]
+  land                 [ 15 wystąpień]
+  harpooner            [  9 wystąpień]
+  captain              [  8 wystąpień]
+  ned                  [  6 wystąpień]
+  commander            [  5 wystąpień]
+  genus                [  1 wystąpień]
+
+SAID:
+------------------------------------------------------------
+  conseil              [ 36 wystąpień]
+  captain              [  8 wystąpień]
+  land                 [  8 wystąpień]
+  ned                  [  3 wystąpień]
+  harpooner            [  3 wystąpień]
+  commander            [  2 wystąpień]
+  professor            [  1 wystąpień]
+  order                [  1 wystąpień]
+
+HAD:
+------------------------------------------------------------
+  nautilus             [  9 wystąpień]
+  conseil              [  7 wystąpień]
+  land                 [  7 wystąpień]
+  captain              [  4 wystąpień]
+  ships                [  3 wystąpień]
+  one                  [  3 wystąpień]
+  monster              [  2 wystąpień]
+  animal               [  2 wystąpień]
+  island               [  2 wystąpień]
+  ned                  [  2 wystąpień]
+  time                 [  2 wystąpień]
+  boat                 [  2 wystąpień]
+  words                [  2 wystąpień]
+  men                  [  2 wystąpień]
+  nature               [  2 wystąpień]
+  sea                  [  2 wystąpień]
+  skiff                [  2 wystąpień]
+  companions           [  2 wystąpień]
+  water                [  1 wystąpień]
+  clock                [  1 wystąpień]
+  frigate              [  1 wystąpień]
+  master               [  1 wystąpień]
+  world                [  1 wystąpień]
+  hour                 [  1 wystąpień]
+  hands                [  1 wystąpień]
+  commander            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  door                 [  1 wystąpień]
+  night                [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+  feet                 [  1 wystąpień]
+  ship                 [  1 wystąpień]
+  islands              [  1 wystąpień]
+  waves                [  1 wystąpień]
+  stateroom            [  1 wystąpień]
+  head                 [  1 wystąpień]
+  waters               [  1 wystąpień]
+  mind                 [  1 wystąpień]
+
+WENT:
+------------------------------------------------------------
+  land                 [  5 wystąpień]
+  commander            [  4 wystąpień]
+  conseil              [  4 wystąpień]
+  ned                  [  3 wystąpień]
+  captain              [  2 wystąpień]
+  nautilus             [  2 wystąpień]
+  hour                 [  1 wystąpień]
+  night                [  1 wystąpień]
+  companions           [  1 wystąpień]
+  ship                 [  1 wystąpień]
+  door                 [  1 wystąpień]
+
+HAVE:
+------------------------------------------------------------
+  ships                [  3 wystąpień]
+  time                 [  3 wystąpień]
+  boat                 [  2 wystąpień]
+  people               [  2 wystąpień]
+  animals              [  2 wystąpień]
+  seas                 [  2 wystąpień]
+  islands              [  1 wystąpień]
+  words                [  1 wystąpień]
+  ned                  [  1 wystąpień]
+  professor            [  1 wystąpień]
+  meters               [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  coral                [  1 wystąpień]
+  shells               [  1 wystąpień]
+  men                  [  1 wystąpień]
+
+SEE:
+------------------------------------------------------------
+  ned                  [  6 wystąpień]
+  captain              [  4 wystąpień]
+  sir                  [  2 wystąpień]
+  seas                 [  1 wystąpień]
+  friend               [  1 wystąpień]
+  one                  [  1 wystąpień]
+  master               [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+MADE:
+------------------------------------------------------------
+  land                 [  2 wystąpień]
+  one                  [  2 wystąpień]
+  board                [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  hands                [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+  shells               [  1 wystąpień]
+  ships                [  1 wystąpień]
+  waves                [  1 wystąpień]
+  sun                  [  1 wystąpień]
+
+NED:
+------------------------------------------------------------
+  land                 [188 wystąpień]
+  sir                  [  8 wystąpień]
+  conseil              [  5 wystąpień]
+  friend               [  4 wystąpień]
+  harpooner            [  3 wystąpień]
+  platform             [  3 wystąpień]
+  professor            [  2 wystąpień]
+  ned                  [  2 wystąpień]
+  clock                [  2 wystąpień]
+  chapter              [  1 wystąpień]
+  people               [  1 wystąpień]
+  waves                [  1 wystąpień]
+  animals              [  1 wystąpień]
+  commander            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  seas                 [  1 wystąpień]
+  light                [  1 wystąpień]
+  word                 [  1 wystąpień]
+  hours                [  1 wystąpień]
+  words                [  1 wystąpień]
+  crew                 [  1 wystąpień]
+  islands              [  1 wystąpień]
+  lounge               [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  island               [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+  board                [  1 wystąpień]
+  coral                [  1 wystąpień]
+  point                [  1 wystąpień]
+  captain              [  1 wystąpień]
+  hand                 [  1 wystąpień]
+  surface              [  1 wystąpień]
+  side                 [  1 wystąpień]
+
+SEEMED:
+------------------------------------------------------------
+  nautilus             [  3 wystąpień]
+  waters               [  2 wystąpień]
+  question             [  1 wystąpień]
+  day                  [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  animal               [  1 wystąpień]
+  harpooner            [  1 wystąpień]
+  boat                 [  1 wystąpień]
+  depth                [  1 wystąpień]
+  board                [  1 wystąpień]
+  ocean                [  1 wystąpień]
+  rays                 [  1 wystąpień]
+
+MAKE:
+------------------------------------------------------------
+  fish                 [  1 wystąpień]
+  ocean                [  1 wystąpień]
+
+ASKED:
+------------------------------------------------------------
+  conseil              [ 16 wystąpień]
+  commander            [  3 wystąpień]
+  land                 [  3 wystąpień]
+  ned                  [  2 wystąpień]
+  miles                [  1 wystąpień]
+  friend               [  1 wystąpień]
+  platform             [  1 wystąpień]
+  day                  [  1 wystąpień]
+
+SAW:
+------------------------------------------------------------
+  captain              [  4 wystąpień]
+  ned                  [  2 wystąpień]
+  eyes                 [  1 wystąpień]
+
+LEFT:
+------------------------------------------------------------
+  nautilus             [  4 wystąpień]
+  conseil              [  2 wystąpień]
+  man                  [  1 wystąpień]
+  question             [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+TOOK:
+------------------------------------------------------------
+  place                [  3 wystąpień]
+  nautilus             [  2 wystąpień]
+  question             [  1 wystąpień]
+  frigate              [  1 wystąpień]
+  one                  [  1 wystąpień]
+  light                [  1 wystąpień]
+  island               [  1 wystąpień]
+  fins                 [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+PUT:
+------------------------------------------------------------
+  conseil              [  7 wystąpień]
+  ned                  [  3 wystąpień]
+  land                 [  3 wystąpień]
+  monster              [  1 wystąpień]
+  harpooner            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+
+LET:
+------------------------------------------------------------
+  animal               [  1 wystąpień]
+  ned                  [  1 wystąpień]
+  master               [  1 wystąpień]
+  sir                  [  1 wystąpień]
+
+TOLD:
+------------------------------------------------------------
+  conseil              [  6 wystąpień]
+  captain              [  4 wystąpień]
+  land                 [  3 wystąpień]
+
+COME:
+------------------------------------------------------------
+  boat                 [  1 wystąpień]
+
+KNOW:
+------------------------------------------------------------
+  professor            [  1 wystąpień]
+
+TAKE:
+------------------------------------------------------------
+  place                [  2 wystąpień]
+  master               [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+
+CONSEIL:
+------------------------------------------------------------
+  friend               [ 10 wystąpień]
+  master               [  5 wystąpień]
+  ned                  [  5 wystąpień]
+  fish                 [  3 wystąpień]
+  course               [  2 wystąpień]
+  part                 [  2 wystąpień]
+  time                 [  1 wystąpień]
+  frigate              [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+  way                  [  1 wystąpień]
+  crew                 [  1 wystąpień]
+  hands                [  1 wystąpień]
+  island               [  1 wystąpień]
+  question             [  1 wystąpień]
+  man                  [  1 wystąpień]
+  waters               [  1 wystąpień]
+  leagues              [  1 wystąpień]
+  one                  [  1 wystąpień]
+  ocean                [  1 wystąpień]
+  days                 [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  captain              [  1 wystąpień]
+  stateroom            [  1 wystąpień]
+
+SAY:
+------------------------------------------------------------
+  conseil              [  2 wystąpień]
+  ned                  [  2 wystąpień]
+  people               [  1 wystąpień]
+  meters               [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+GOING:
+------------------------------------------------------------
+  man                  [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  shore                [  1 wystąpień]
+  ships                [  1 wystąpień]
+
+STOOD:
+------------------------------------------------------------
+  captain              [  2 wystąpień]
+  commander            [  1 wystąpień]
+  land                 [  1 wystąpień]
+  companions           [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  men                  [  1 wystąpień]
+
+KEPT:
+------------------------------------------------------------
+  conseil              [  3 wystąpień]
+  frigate              [  2 wystąpień]
+  nautilus             [  2 wystąpień]
+  seafloor             [  1 wystąpień]
+  ned                  [  1 wystąpień]
+  land                 [  1 wystąpień]
+  fins                 [  1 wystąpień]
+  feet                 [  1 wystąpień]
+
+ANSWERED:
+------------------------------------------------------------
+  captain              [  8 wystąpień]
+  conseil              [  6 wystąpień]
+  land                 [  2 wystąpień]
+  sir                  [  1 wystąpień]
+
+EXCLAIMED:
+------------------------------------------------------------
+  land                 [  9 wystąpień]
+  conseil              [  8 wystąpień]
+  one                  [  2 wystąpień]
+  harpooner            [  2 wystąpień]
+  ned                  [  2 wystąpień]
+  rays                 [  1 wystąpień]
+  order                [  1 wystąpień]
+  master               [  1 wystąpień]
+
+FOUND:
+------------------------------------------------------------
+  shells               [  1 wystąpień]
+  captain              [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+SET:
+------------------------------------------------------------
+  cabin                [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+
+THINK:
+------------------------------------------------------------
+  master               [  1 wystąpień]
+  land                 [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+FELT:
+------------------------------------------------------------
+  nautilus             [  2 wystąpień]
+
+GAVE:
+------------------------------------------------------------
+  captain              [  4 wystąpień]
+  monster              [  1 wystąpień]
+  land                 [  1 wystąpień]
+  meters               [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+
+CAME:
+------------------------------------------------------------
+  animal               [  2 wystąpień]
+  hands                [  2 wystąpień]
+  word                 [  1 wystąpień]
+  frigate              [  1 wystąpień]
+  monster              [  1 wystąpień]
+  light                [  1 wystąpień]
+
+APPEARED:
+------------------------------------------------------------
+  man                  [  3 wystąpień]
+  conseil              [  2 wystąpień]
+  men                  [  2 wystąpień]
+  one                  [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  rays                 [  1 wystąpień]
+  ships                [  1 wystąpień]
+
+OPENED:
+------------------------------------------------------------
+  door                 [ 11 wystąpień]
+  captain              [  2 wystąpień]
+  lounge               [  1 wystąpień]
+
+TELL:
+------------------------------------------------------------
+  master               [  4 wystąpień]
+  chapter              [  1 wystąpień]
+
+THOUGHT:
+------------------------------------------------------------
+  professor            [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+CALLED:
+------------------------------------------------------------
+  crew                 [  1 wystąpień]
+  animal               [  1 wystąpień]
+  one                  [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+GIVE:
+------------------------------------------------------------
+  way                  [  1 wystąpień]
+
+LAY:
+------------------------------------------------------------
+  nautilus             [  5 wystąpień]
+  frigate              [  2 wystąpień]
+  miles                [  1 wystąpień]
+  companions           [  1 wystąpień]
+  shore                [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+SEEN:
+------------------------------------------------------------
+  crew                 [  1 wystąpień]
+  one                  [  1 wystąpień]
+  light                [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+DID:
+------------------------------------------------------------
+  master               [  4 wystąpień]
+  conseil              [  2 wystąpień]
+  people               [  1 wystąpień]
+  feet                 [  1 wystąpień]
+  boat                 [  1 wystąpień]
+  land                 [  1 wystąpień]
+  captain              [  1 wystąpień]
+  shore                [  1 wystąpień]
+  order                [  1 wystąpień]
+
+WANTED:
+------------------------------------------------------------
+  man                  [  1 wystąpień]
+  one                  [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+
+HEARD:
+------------------------------------------------------------
+  one                  [  1 wystąpień]
+
+WON:
+------------------------------------------------------------
+  companions           [  1 wystąpień]
+  master               [  1 wystąpień]
+  board                [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  ship                 [  1 wystąpień]
+
+KNOWN:
+------------------------------------------------------------
+  species              [  3 wystąpień]
+  fish                 [  1 wystąpień]
+  islands              [  1 wystąpień]
+  feet                 [  1 wystąpień]
+
+KEEP:
+------------------------------------------------------------
+  seas                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  sir                  [  1 wystąpień]
+
+BROUGHT:
+------------------------------------------------------------
+  fish                 [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+WANT:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+
+FIND:
+------------------------------------------------------------
+  one                  [  3 wystąpień]
+
+HAS:
+------------------------------------------------------------
+  nature               [  7 wystąpień]
+  nautilus             [  4 wystąpień]
+  one                  [  3 wystąpień]
+  time                 [  2 wystąpień]
+  man                  [  2 wystąpień]
+  master               [  2 wystąpień]
+  conseil              [  2 wystąpień]
+  depths               [  1 wystąpień]
+  air                  [  1 wystąpień]
+  boat                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  water                [  1 wystąpień]
+  times                [  1 wystąpień]
+  commander            [  1 wystąpień]
+  animal               [  1 wystąpień]
+
+PASSED:
+------------------------------------------------------------
+  days                 [  3 wystąpień]
+  hours                [  2 wystąpień]
+  night                [  2 wystąpień]
+  nautilus             [  2 wystąpień]
+  day                  [  1 wystąpień]
+  head                 [  1 wystąpień]
+  rays                 [  1 wystąpień]
+
+USED:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+
+GIVEN:
+------------------------------------------------------------
+  time                 [  1 wystąpień]
+
+COVERED:
+------------------------------------------------------------
+  nautilus             [  2 wystąpień]
+  waters               [  1 wystąpień]
+
+FOLLOWED:
+------------------------------------------------------------
+  captain              [  4 wystąpień]
+  companions           [  2 wystąpień]
+  master               [  1 wystąpień]
+  professor            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+STARED:
+------------------------------------------------------------
+  harpooner            [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+ADDED:
+------------------------------------------------------------
+  land                 [  3 wystąpień]
+  conseil              [  2 wystąpień]
+  harpooner            [  1 wystąpień]
+  captain              [  1 wystąpień]
+  water                [  1 wystąpień]
+
+BELIEVE:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+
+FELL:
+------------------------------------------------------------
+  night                [  5 wystąpień]
+  captain              [  2 wystąpień]
+  eyes                 [  1 wystąpień]
+
+LOOKED:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+
+SPOTTED:
+------------------------------------------------------------
+  rays                 [  1 wystąpień]
+
+TAKING:
+------------------------------------------------------------
+  mass                 [  1 wystąpień]
+
+GET:
+------------------------------------------------------------
+  master               [  1 wystąpień]
+
+UNDERSTAND:
+------------------------------------------------------------
+  captain              [  3 wystąpień]
+  sir                  [  1 wystąpień]
+
+MOVING:
+------------------------------------------------------------
+  mass                 [  1 wystąpień]
+  speed                [  1 wystąpień]
+
+ARRIVED:
+------------------------------------------------------------
+  ships                [  1 wystąpień]
+
+RETURNED:
+------------------------------------------------------------
+  conseil              [  2 wystąpień]
+  nautilus             [  2 wystąpień]
+  boat                 [  1 wystąpień]
+  men                  [  1 wystąpień]
+
+GREW:
+------------------------------------------------------------
+  horizon              [  1 wystąpień]
+  mind                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  seafloor             [  1 wystąpień]
+
+ASK:
+------------------------------------------------------------
+  one                  [  1 wystąpień]
+  professor            [  1 wystąpień]
+
+STAYED:
+------------------------------------------------------------
+  nautilus             [  2 wystąpień]
+  crew                 [  1 wystąpień]
+  land                 [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  skiff                [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+
+OBSERVED:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+KNEW:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+TURNED:
+------------------------------------------------------------
+  shells               [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+LEAVE:
+------------------------------------------------------------
+  captain              [  2 wystąpień]
+  master               [  1 wystąpień]
+
+OBSERVE:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+
+PLACED:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+
+NEED:
+------------------------------------------------------------
+  light                [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+LIT:
+------------------------------------------------------------
+  lounge               [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  platform             [  1 wystąpień]
+  coral                [  1 wystąpień]
+
+ENTERED:
+------------------------------------------------------------
+  nautilus             [  1 wystąpień]
+
+NEEDED:
+------------------------------------------------------------
+  ned                  [  1 wystąpień]
+  air                  [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+GOT:
+------------------------------------------------------------
+  eyes                 [  1 wystąpień]
+  land                 [  1 wystąpień]
+  sun                  [  1 wystąpień]
+  animal               [  1 wystąpień]
+
+LEAVING:
+------------------------------------------------------------
+  miles                [  1 wystąpień]
+  skiff                [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+
+USE:
+------------------------------------------------------------
+  glass                [  1 wystąpień]
+
+MAKING:
+------------------------------------------------------------
+  islands              [  1 wystąpień]
+
+CARRIED:
+------------------------------------------------------------
+  rays                 [  1 wystąpień]
+  day                  [  1 wystąpień]
+  waves                [  1 wystąpień]
+  one                  [  1 wystąpień]
+
+KNOWS:
+------------------------------------------------------------
+  captain              [  2 wystąpień]
+
+NOTED:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+
+GETTING:
+------------------------------------------------------------
+  one                  [  1 wystąpień]
+
+LOST:
+------------------------------------------------------------
+  ocean                [  1 wystąpień]

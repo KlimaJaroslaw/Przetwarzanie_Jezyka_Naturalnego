@@ -1,0 +1,611 @@
+================================================================================
+LISTA POŁĄCZEŃ: PRZYMIOTNIK -> RZECZOWNIKI
+================================================================================
+
+
+NED:
+------------------------------------------------------------
+  land                 [187 wystąpień]
+  conseil              [  3 wystąpień]
+  people               [  1 wystąpień]
+  commander            [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+OTHER:
+------------------------------------------------------------
+  words                [ 32 wystąpień]
+  hand                 [  2 wystąpień]
+  men                  [  2 wystąpień]
+  fish                 [  2 wystąpień]
+  side                 [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  pearl                [  1 wystąpień]
+  iron                 [  1 wystąpień]
+  chapter              [  1 wystąpień]
+  times                [  1 wystąpień]
+  pearls               [  1 wystąpień]
+  course               [  1 wystąpień]
+  rays                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+FEW:
+------------------------------------------------------------
+  words                [  8 wystąpień]
+  hours                [  7 wystąpień]
+  meters               [  7 wystąpień]
+  miles                [  4 wystąpień]
+  feet                 [  3 wystąpień]
+  sea                  [  1 wystąpień]
+  men                  [  1 wystąpień]
+  days                 [  1 wystąpień]
+
+LITTLE:
+------------------------------------------------------------
+  glass                [  2 wystąpień]
+  ned                  [  1 wystąpień]
+  speed                [  1 wystąpień]
+  man                  [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  fish                 [  1 wystąpień]
+
+SUCH:
+------------------------------------------------------------
+  land                 [  1 wystąpień]
+  depths               [  1 wystąpień]
+  animals              [  1 wystąpień]
+  rays                 [  1 wystąpień]
+  life                 [  1 wystąpień]
+  men                  [  1 wystąpień]
+
+LONG:
+------------------------------------------------------------
+  hours                [  4 wystąpień]
+  island               [  1 wystąpień]
+  night                [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  iron                 [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+NAUTILUS:
+------------------------------------------------------------
+  captain              [  2 wystąpień]
+  sir                  [  1 wystąpień]
+  chapter              [  1 wystąpień]
+  ned                  [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+MORE:
+------------------------------------------------------------
+  time                 [  2 wystąpień]
+  hours                [  1 wystąpień]
+  air                  [  1 wystąpień]
+  land                 [  1 wystąpień]
+  ned                  [  1 wystąpień]
+  shore                [  1 wystąpień]
+
+GOOD:
+------------------------------------------------------------
+  nature               [  2 wystąpień]
+  part                 [  1 wystąpień]
+  eyes                 [  1 wystąpień]
+  leagues              [  1 wystąpień]
+
+GREAT:
+------------------------------------------------------------
+  ocean                [  5 wystąpień]
+  depths               [  2 wystąpień]
+  speed                [  1 wystąpień]
+  sea                  [  1 wystąpień]
+  men                  [  1 wystąpień]
+
+UNDERWATER:
+------------------------------------------------------------
+  boat                 [ 12 wystąpień]
+  world                [  2 wystąpień]
+  depths               [  1 wystąpień]
+
+NEW:
+------------------------------------------------------------
+  island               [  2 wystąpień]
+  world                [  1 wystąpień]
+  species              [  1 wystąpień]
+  day                  [  1 wystąpień]
+  men                  [  1 wystąpień]
+  coast                [  1 wystąpień]
+  islands              [  1 wystąpień]
+
+SAME:
+------------------------------------------------------------
+  time                 [  4 wystąpień]
+  way                  [  3 wystąpień]
+  place                [  2 wystąpień]
+  day                  [  2 wystąpień]
+  order                [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  land                 [  1 wystąpień]
+
+FIRST:
+------------------------------------------------------------
+  time                 [  5 wystąpień]
+  part                 [  2 wystąpień]
+  one                  [  2 wystąpień]
+  order                [  2 wystąpień]
+  captain              [  1 wystąpień]
+  days                 [  1 wystąpień]
+  men                  [  1 wystąpień]
+  day                  [  1 wystąpień]
+  ship                 [  1 wystąpień]
+  night                [  1 wystąpień]
+  words                [  1 wystąpień]
+  hours                [  1 wystąpień]
+
+ELECTRIC:
+------------------------------------------------------------
+  light                [ 14 wystąpień]
+  one                  [  1 wystąpień]
+  rays                 [  1 wystąpień]
+
+SEVERAL:
+------------------------------------------------------------
+  times                [  8 wystąpień]
+  hours                [  5 wystąpień]
+  ships                [  2 wystąpień]
+  leagues              [  2 wystąpień]
+  people               [  1 wystąpień]
+  days                 [  1 wystąpień]
+  species              [  1 wystąpień]
+  pearls               [  1 wystąpień]
+
+CONSEIL:
+------------------------------------------------------------
+  ned                  [  2 wystąpień]
+
+MANY:
+------------------------------------------------------------
+  times                [  1 wystąpień]
+  men                  [  1 wystąpień]
+  people               [  1 wystąpień]
+  one                  [  1 wystąpień]
+  ships                [  1 wystąpień]
+  days                 [  1 wystąpień]
+
+LAST:
+------------------------------------------------------------
+  words                [  5 wystąpień]
+  time                 [  2 wystąpień]
+  question             [  2 wystąpień]
+  night                [  2 wystąpień]
+  one                  [  1 wystąpień]
+  light                [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  day                  [  1 wystąpień]
+  word                 [  1 wystąpień]
+
+OPEN:
+------------------------------------------------------------
+  sea                  [ 10 wystąpień]
+  air                  [  2 wystąpień]
+  mind                 [  1 wystąpień]
+  professor            [  1 wystąpień]
+
+WHOLE:
+------------------------------------------------------------
+  crew                 [  2 wystąpień]
+  world                [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+  time                 [  1 wystąpień]
+  part                 [  1 wystąpień]
+  pearl                [  1 wystąpień]
+  island               [  1 wystąpień]
+
+HIGH:
+------------------------------------------------------------
+  speed                [  4 wystąpień]
+  seas                 [  4 wystąpień]
+  pressure             [  2 wystąpień]
+  sea                  [  1 wystąpień]
+  coral                [  1 wystąpień]
+
+CERTAIN:
+------------------------------------------------------------
+  commander            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  depth                [  1 wystąpień]
+
+LEAST:
+------------------------------------------------------------
+  captain              [  2 wystąpień]
+  meters               [  1 wystąpień]
+  conseil              [  1 wystąpień]
+
+HUGE:
+------------------------------------------------------------
+  world                [  1 wystąpień]
+  island               [  1 wystąpień]
+
+WHITE:
+------------------------------------------------------------
+  waves                [  2 wystąpień]
+  coral                [  1 wystąpień]
+  light                [  1 wystąpień]
+  glass                [  1 wystąpień]
+  feet                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+FINE:
+------------------------------------------------------------
+  harpooner            [  2 wystąpień]
+  professor            [  2 wystąpień]
+  animal               [  1 wystąpień]
+  captain              [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  day                  [  1 wystąpień]
+  companions           [  1 wystąpień]
+  conseil              [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+DARK:
+------------------------------------------------------------
+  waters               [  2 wystąpień]
+  horizon              [  1 wystąpień]
+  master               [  1 wystąpień]
+  depths               [  1 wystąpień]
+  waves                [  1 wystąpień]
+  night                [  1 wystąpień]
+
+VARIOUS:
+------------------------------------------------------------
+  fish                 [  2 wystąpień]
+  species              [  2 wystąpień]
+  coral                [  1 wystąpień]
+
+SINGLE:
+------------------------------------------------------------
+  word                 [  3 wystąpień]
+  point                [  2 wystąpień]
+  one                  [  2 wystąpień]
+  ship                 [  1 wystąpień]
+  day                  [  1 wystąpień]
+  hour                 [  1 wystąpień]
+  time                 [  1 wystąpień]
+
+READY:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+
+CANADIAN:
+------------------------------------------------------------
+  friend               [  1 wystąpień]
+
+BLACK:
+------------------------------------------------------------
+  mass                 [  2 wystąpień]
+  eyes                 [  1 wystąpień]
+  pearls               [  1 wystąpień]
+  head                 [  1 wystąpień]
+
+FRENCH:
+------------------------------------------------------------
+  frigate              [  1 wystąpień]
+  word                 [  1 wystąpień]
+
+FULL:
+------------------------------------------------------------
+  speed                [  1 wystąpień]
+  hour                 [  1 wystąpień]
+
+HEAVY:
+------------------------------------------------------------
+  glass                [  2 wystąpień]
+  air                  [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+CHIEF:
+------------------------------------------------------------
+  islands              [  2 wystąpień]
+  island               [  1 wystąpień]
+  seas                 [  1 wystąpień]
+
+LARGE:
+------------------------------------------------------------
+  islands              [  1 wystąpień]
+  captain              [  1 wystąpień]
+  fish                 [  1 wystąpień]
+
+WONDERFUL:
+------------------------------------------------------------
+  coral                [  1 wystąpień]
+  genus                [  1 wystąpień]
+  nautilus             [  1 wystąpień]
+
+OLD:
+------------------------------------------------------------
+  hand                 [  1 wystąpień]
+  times                [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+FREE:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+  iron                 [  1 wystąpień]
+
+NEXT:
+------------------------------------------------------------
+  day                  [ 17 wystąpień]
+  morning              [  6 wystąpień]
+  hour                 [  1 wystąpień]
+  time                 [  1 wystąpień]
+
+ENORMOUS:
+------------------------------------------------------------
+  mass                 [  1 wystąpień]
+
+POWERFUL:
+------------------------------------------------------------
+  animals              [  2 wystąpień]
+  hands                [  2 wystąpień]
+  light                [  1 wystąpień]
+  fins                 [  1 wystąpień]
+
+LOWER:
+------------------------------------------------------------
+  depths               [  4 wystąpień]
+
+CORAL:
+------------------------------------------------------------
+  sea                  [  4 wystąpień]
+  ned                  [  1 wystąpień]
+
+MUCH:
+------------------------------------------------------------
+  pressure             [  1 wystąpień]
+  master               [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+OWN:
+------------------------------------------------------------
+  air                  [  1 wystąpień]
+  one                  [  1 wystąpień]
+
+CLEAR:
+------------------------------------------------------------
+  waters               [  2 wystąpień]
+  waves                [  2 wystąpień]
+  glass                [  1 wystąpień]
+  water                [  1 wystąpień]
+  captain              [  1 wystąpień]
+
+EXCELLENT:
+------------------------------------------------------------
+  fish                 [  2 wystąpień]
+  ned                  [  1 wystąpień]
+  sir                  [  1 wystąpień]
+  animals              [  1 wystąpień]
+  animal               [  1 wystąpień]
+
+UNUSUAL:
+------------------------------------------------------------
+  sight                [  3 wystąpień]
+  shells               [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+WIDE:
+------------------------------------------------------------
+  eyes                 [  1 wystąpień]
+
+RED:
+------------------------------------------------------------
+  sea                  [ 32 wystąpień]
+
+MARINE:
+------------------------------------------------------------
+  animal               [  3 wystąpień]
+  monster              [  2 wystąpień]
+  animals              [  2 wystąpień]
+  world                [  1 wystąpień]
+
+SECOND:
+------------------------------------------------------------
+  time                 [  3 wystąpień]
+  door                 [  2 wystąpień]
+  part                 [  2 wystąpień]
+  nautilus             [  2 wystąpień]
+  order                [  1 wystąpień]
+
+HUMAN:
+------------------------------------------------------------
+  mind                 [  2 wystąpień]
+  eyes                 [  1 wystąpień]
+  life                 [  1 wystąpień]
+
+SHORT:
+------------------------------------------------------------
+  time                 [  1 wystąpień]
+
+DEEP:
+------------------------------------------------------------
+  sea                  [  1 wystąpień]
+  waters               [  1 wystąpień]
+  water                [  1 wystąpień]
+
+DIFFERENT:
+------------------------------------------------------------
+  times                [  2 wystąpień]
+  depths               [  2 wystąpień]
+  name                 [  1 wystąpień]
+  part                 [  1 wystąpień]
+
+LIQUID:
+------------------------------------------------------------
+  mass                 [  6 wystąpień]
+  light                [  1 wystąpień]
+
+SMALL:
+------------------------------------------------------------
+  fish                 [  1 wystąpień]
+  light                [  1 wystąpień]
+
+MAGNIFICENT:
+------------------------------------------------------------
+  sea                  [  2 wystąpień]
+  ocean                [  1 wystąpień]
+  pearl                [  1 wystąpień]
+  coral                [  1 wystąpień]
+
+BIG:
+------------------------------------------------------------
+  land                 [  1 wystąpień]
+  ships                [  1 wystąpień]
+  head                 [  1 wystąpień]
+
+DREADFUL:
+------------------------------------------------------------
+  animals              [  2 wystąpień]
+  animal               [  1 wystąpień]
+  man                  [  1 wystąpień]
+  sight                [  1 wystąpień]
+  point                [  1 wystąpień]
+
+COMMON:
+------------------------------------------------------------
+  man                  [  1 wystąpień]
+
+IMMENSE:
+------------------------------------------------------------
+  sea                  [  1 wystąpień]
+  island               [  1 wystąpień]
+
+VALUABLE:
+------------------------------------------------------------
+  species              [  2 wystąpień]
+  water                [  1 wystąpień]
+  animals              [  1 wystąpień]
+
+RIGHT:
+------------------------------------------------------------
+  conseil              [  5 wystąpień]
+  ned                  [  3 wystąpień]
+  professor            [  3 wystąpień]
+  hand                 [  1 wystąpień]
+
+ACTUAL:
+------------------------------------------------------------
+  speed                [  1 wystąpień]
+  point                [  1 wystąpień]
+  boat                 [  1 wystąpień]
+
+FRESH:
+------------------------------------------------------------
+  water                [  5 wystąpień]
+  air                  [  2 wystąpień]
+  night                [  1 wystąpień]
+
+ABOUT:
+------------------------------------------------------------
+  miles                [  3 wystąpień]
+  meters               [  2 wystąpień]
+  master               [  2 wystąpień]
+  one                  [  2 wystąpień]
+  feet                 [  2 wystąpień]
+  professor            [  1 wystąpień]
+  fish                 [  1 wystąpień]
+  captain              [  1 wystąpień]
+  species              [  1 wystąpień]
+
+GIGANTIC:
+------------------------------------------------------------
+  animal               [  1 wystąpień]
+
+FEARSOME:
+------------------------------------------------------------
+  animals              [  2 wystąpień]
+  man                  [  1 wystąpień]
+  pressure             [  1 wystąpień]
+
+STRANGE:
+------------------------------------------------------------
+  man                  [  2 wystąpień]
+  boat                 [  1 wystąpień]
+  commander            [  1 wystąpień]
+
+GREATER:
+------------------------------------------------------------
+  pressure             [  3 wystąpień]
+  depths               [  1 wystąpień]
+
+LATTER:
+------------------------------------------------------------
+  day                  [  2 wystąpień]
+
+VERY:
+------------------------------------------------------------
+  place                [  4 wystąpień]
+  day                  [  2 wystąpień]
+  sight                [  1 wystąpień]
+  light                [  1 wystąpień]
+
+SQUARE:
+------------------------------------------------------------
+  miles                [  4 wystąpień]
+  leagues              [  2 wystąpień]
+  meters               [  1 wystąpień]
+
+UNKNOWN:
+------------------------------------------------------------
+  monster              [  1 wystąpień]
+  species              [  1 wystąpień]
+  animals              [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+IMPOSSIBLE:
+------------------------------------------------------------
+  captain              [  1 wystąpień]
+
+POOR:
+------------------------------------------------------------
+  man                  [  2 wystąpień]
+  people               [  2 wystąpień]
+  ned                  [  1 wystąpień]
+
+DEAD:
+------------------------------------------------------------
+  professor            [  1 wystąpień]
+  sea                  [  1 wystąpień]
+
+DANGEROUS:
+------------------------------------------------------------
+  one                  [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+ENOUGH:
+------------------------------------------------------------
+  water                [  2 wystąpień]
+  conseil              [  2 wystąpień]
+  captain              [  1 wystąpień]
+  ned                  [  1 wystąpień]
+
+SURE:
+------------------------------------------------------------
+  conseil              [  1 wystąpień]
+  hands                [  1 wystąpień]
+
+ENTIRE:
+------------------------------------------------------------
+  world                [  4 wystąpień]
+  crew                 [  2 wystąpień]
+  islands              [  1 wystąpień]
+  hour                 [  1 wystąpień]
+  day                  [  1 wystąpień]
+  horizon              [  1 wystąpień]
+
+GALLANT:
+------------------------------------------------------------
+  ned                  [  9 wystąpień]
+  companions           [  2 wystąpień]
+  conseil              [  1 wystąpień]
+
+USUAL:
+------------------------------------------------------------
+  place                [  1 wystąpień]
