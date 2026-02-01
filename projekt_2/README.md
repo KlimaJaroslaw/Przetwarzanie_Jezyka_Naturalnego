@@ -30,3 +30,9 @@ Upewnij się, że w folderze projektu znajdują się następujące pliki:
 Otwórz terminal w folderze projektu i wpisz:
 ```bash
 pip install -r requirements.txt
+```
+### 3. Uruchomienie programu
+W terminalu wpisz komendę
+```bash
+streamlit run app.py
+```
